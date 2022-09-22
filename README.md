@@ -1,6 +1,6 @@
 ## Usage
 ```
-python3 programmingReviewPrompt
+python3 programmingReviewPrompt.py
 
 ```
 
